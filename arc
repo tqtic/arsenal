@@ -45,20 +45,20 @@ Blur.ImageTransparency = 0.550
 
 UICorner_2.Parent = Blur
 
-Varon.Name = "Varon"
-Varon.Parent = Loader
-Varon.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-Varon.BackgroundTransparency = 1.000
-Varon.BorderColor3 = Color3.fromRGB(0, 0, 0)
-Varon.BorderSizePixel = 0
-Varon.Position = UDim2.new(0.123442277, 0, 0.157894731, 0)
-Varon.Size = UDim2.new(0, 154, 0, 39)
-Varon.Font = Enum.Font.JosefinSans
-Varon.Text = "\"quotas hub\""
-Varon.TextColor3 = Color3.fromRGB(255, 255, 255)
-Varon.TextSize = 20.000
-Varon.TextWrapped = true
-Varon.TextTransparency = 1
+quotasloader.Name = "quotasloader"
+quotasloader.Parent = Loader
+quotasloader.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+quotasloader.BackgroundTransparency = 1.000
+quotasloader.BorderColor3 = Color3.fromRGB(0, 0, 0)
+quotasloader.BorderSizePixel = 0
+quotasloader.Position = UDim2.new(0.123442277, 0, 0.157894731, 0)
+quotasloader.Size = UDim2.new(0, 154, 0, 39)
+quotasloader.Font = Enum.Font.JosefinSans
+quotasloader.Text = "\Varon\"
+quotasloader.TextColor3 = Color3.fromRGB(255, 255, 255)
+quotasloader.TextSize = 20.000
+quotasloader.TextWrapped = true
+quotasloader.TextTransparency = 1
 
 Bar.Name = "Bar"
 Bar.Parent = Loader
@@ -241,19 +241,19 @@ Title.Size = UDim2.new(0, 331, 0, 24)
 
 UICorner_3.Parent = Title
 
-Varon.Name = "Varon"
-Varon.Parent = Title
-Varon.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-Varon.BackgroundTransparency = 1.000
-Varon.BorderColor3 = Color3.fromRGB(0, 0, 0)
-Varon.BorderSizePixel = 0
-Varon.Position = UDim2.new(0, 0, -0.000333150238, 0)
-Varon.Size = UDim2.new(0, 329, 0, 25)
-Varon.Font = Enum.Font.JosefinSans
-Varon.Text = "\"Varon Arsenal\""
-Varon.TextColor3 = Color3.fromRGB(255, 255, 255)
-Varon.TextSize = 14.000
-Varon.TextWrapped = true
+quotasname.Name = "quotasname"
+quotasname.Parent = Title
+quotasname.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+quotasname.BackgroundTransparency = 1.000
+quotasname.BorderColor3 = Color3.fromRGB(0, 0, 0)
+quotasname.BorderSizePixel = 0
+quotasname.Position = UDim2.new(0, 0, -0.000333150238, 0)
+quotasname.Size = UDim2.new(0, 329, 0, 25)
+quotasname.Font = Enum.Font.JosefinSans
+quotasname.Text = "\"quotas hub\""
+quotasname.TextColor3 = Color3.fromRGB(255, 255, 255)
+quotasname.TextSize = 14.000
+quotasname.TextWrapped = true
 
 Blurred.Name = "Blurred"
 Blurred.Parent = Title
